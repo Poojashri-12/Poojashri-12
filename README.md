@@ -6,7 +6,7 @@
 
 
 I'm
-Full Stack Mern Developer
+Full Stack Mern Developer.
 The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript),database(MongoDB,Mysql).
 
 Languages and Tools: 
